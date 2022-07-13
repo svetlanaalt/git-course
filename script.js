@@ -32,4 +32,6 @@ window.onclick = function(event) {
     modal.style.display = "none";
   {"}"}
 {"}"}
+
+console.log('test2')
 </script>
